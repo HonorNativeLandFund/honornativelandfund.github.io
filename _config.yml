@@ -18,19 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Honor Native Land Fund
+email: HonorNativeLandFund@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  Honor Native Land Fund (HNLF) is a voluntary monthly contribution that non-Native people living in the Midwest - 
+  from the banks of the Mississippi to the Missouri - make to local Indigenous efforts to restore and rematriate 
+  land and water to Indigenous stewardship.
+baseurl: "honornativelandfund.org" # the subpath of your site, e.g. /blog
+url: "http://honornativelandfund.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minima
+theme: bulma-clean-theme
 plugins:
   - jekyll-feed
 
