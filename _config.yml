@@ -17,20 +17,28 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+lang: en
 title: Honor Native Land Fund
+tagline: Honor Native Land Fund
 email: HonorNativeLandFund@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Honor Native Land Fund (HNLF) is a voluntary monthly contribution that non-Native people living in the Midwest - 
   from the banks of the Mississippi to the Missouri - make to local Indigenous efforts to restore and rematriate 
   land and water to Indigenous stewardship.
-baseurl: "honornativelandfund.org" # the subpath of your site, e.g. /blog
-url: "http://honornativelandfund.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/HNLFJekyll" # the subpath of your site, e.g. /blog
+url: "http://www.honornativelandfund.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: bulma-clean-theme
+# With GitHub Pages Gem
+remote_theme: chrisrhymes/bulma-clean-theme
+
 plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
   - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -40,14 +48,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude: 
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+livereload: true
