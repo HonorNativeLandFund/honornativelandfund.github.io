@@ -1,4 +1,4 @@
-Title: Welcome
+title: Welcome
 layout: page
 URL:
 save_as: index.html
