@@ -1,5 +1,8 @@
-Title:About our Group
+---
+layout: page
+Title: About our Group
 Date:2021-06-20 16:47
+---
 
 About the Honor Native Land Fund: Seeking Repair in the Upper Mississippi
 ============
