@@ -1,6 +1,6 @@
 ---
-Title:History
-Date:2021-06-20 16:47
+Title: History
+Date: 2021-06-20 16:47
 ---
 
 Some Background History (Land/Treaties/People)
