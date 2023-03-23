@@ -1,6 +1,6 @@
 ---
-Title:Giving
-Date:2021-06-20 16:47
+Title: Giving
+Date: 2021-06-20 16:47
 ---
 
 Giving / How to Give
