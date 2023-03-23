@@ -1,7 +1,9 @@
+---
 title: Welcome
 layout: page
 URL:
-save_as: index.html
+#save_as: index.html
+---
 
 Honor Native Land Fund
 =======
