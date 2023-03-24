@@ -2,9 +2,9 @@
   link: /#
   dropdown:
     - name: Tribes
-    - link: /history
+      link: /history/
     - name: Colonization
-    - link: /colonization
+      link: /colonization/
 - name: Giving
   link: /giving
 - name: About Our Group
