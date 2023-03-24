@@ -7,7 +7,7 @@ hero_image: /images/NahantMarsh.JPG
 
 # Honor Native Land Fund
 
-###We are on Native land. 
+### We are on Native land. 
 
 Honor Native Land Fund (HNLF) is a voluntary monthly contribution that non-Native people living in the Midwest - from the banks of the Mississippi to the Missouri - make to local Indigenous efforts to restore and rematriate land and water to Indigenous stewardship. 
 
