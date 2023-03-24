@@ -12,7 +12,7 @@ Honor Native Land Fund (HNLF) is an all-volunteer network of non-Native people w
 
 In 2023, HNLF began partnering with the [Great Plains Action Society](https://www.greatplainsaction.org/), an Indigenous-led organization made up of Meskwaki, Ho Chunk, Ioway, and other Indigenous people resisting colonization and working to restore and rematriate land in Iowa. 
 
-##HNLF is inspired by the work of the following organizations:
+## HNLF is inspired by the work of the following organizations:
 
 - [Shuumi Land Tax, Sogorea Te’ Land Trust](https://sogoreate-landtrust.org/shuumi-land-tax/) (Bay Area, CA)
 - [Real Rent Duwamish](https://www.realrentduwamish.org/) (Seattle, WA)
