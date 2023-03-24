@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Honor Native Land Fund (HNLF) is a voluntary monthly contribution that non-Native people living in the Midwest - 
   from the banks of the Mississippi to the Missouri - make to local Indigenous efforts to restore and rematriate 
   land and water to Indigenous stewardship.
-baseurl: "/HNLFJekyll" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.honornativelandfund.org" # the base hostname & protocol for your site, e.g. http://example.com
 fixed_navbar: top
 
