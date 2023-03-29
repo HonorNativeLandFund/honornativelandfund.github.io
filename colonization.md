@@ -1,7 +1,8 @@
 ---
+layout: page
 title: Colonization
 subtitle: and Climate Change in the Midwest
-layout: page
+hero_image: /images/NahantMarsh.JPG
 ---
 
 # Colonization and Climate Change in the Midwest 

@@ -1,7 +1,6 @@
 ---
 title: Welcome
 layout: page
-URL:
 hero_image: /images/NahantMarsh.JPG
 ---
 
