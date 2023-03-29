@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Giving
-Date: 2021-06-20 16:47
+hero_image: /images/NahantMarsh.JPG
 ---
 
 # Giving / How to Give
