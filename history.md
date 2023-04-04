@@ -18,7 +18,7 @@ The Ho-Chunk have been living in this region since time immemorial. The Ho Chunk
 In the 1800s, the Ho Chunk faced removal, through what they call the “Trail of Death,” no less than five times. 
 
 
-![Map of Ho Chunk Removals](/images/hochunkmap2.png)
+![Map of Ho Chunk Removals](/images/HoChunkMap04022023.jpg)
 
 ###### Map by [Cole Sutton](https://colesutton11.wordpress.com/2017/01/08/ho-chunk-winnebago-tribe-maps/)
 
