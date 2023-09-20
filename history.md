@@ -8,9 +8,11 @@ hero_image: /images/NahantMarsh.JPG
 
 # A Regional History of Indigenous Land Dispossession
 
-*HNLF is primarily geared toward non-Native people living on the ancestral territory of the Ho Chunk/Winnebago, Ioway, Meskwaki/Fox, Sauk, and the Oceti Sakowin nations to offer reparations by contributing to the Great Plains Action Society. However, we welcome financial contributions from people living anywhere, especially in the Midwest! Consider starting an [Indigenous Solidarity Fund](https://collectiveliberation.org/resource-guide-for-indigenous-solidarity-funding-projects/) in your own region!* 
+*HNLF is primarily geared toward non-Native people living on the ancestral territory of the Ho Chunk/Winnebago, Ioway, Meskwaki/Fox, Sauk, and the Oceti Sakowin nations to offer reparations by contributing to the Great Plains Action Society. However, we welcome financial contributions from people living anywhere, especially in the Midwest! Consider starting an [Indigenous Solidarity Fund][1] in your own region!* 
 
 > “This history is not your fault, but it is absolutely your responsibility.”  -Nikki Sanchez 
+
+[1]: https://collectiveliberation.org/resource-guide-for-indigenous-solidarity-funding-projects/
 
 ## Ho Chunk/Winnebego
 
@@ -34,9 +36,11 @@ The Ioway people are called Báxoje in their own language. They are historically
 
 European colonization during the 17th and 18th centuries forced Indigenous people from the Atlantic Coast and Great Lakes west toward Ioway lands. The Ioway nation accommodated Meskwaki and Sauk refugees in their territory. As more people arrived from the east, the Ioway people gradually moved their own villages southwest toward the Des Moines and Missouri Rivers while still maintaining a claim to ancestral land along the Mississippi.
 
-In the 1825 Treaty of Prairie du Chien, the United States officially recognized that the Ioway nation had equal rights with the Sac and Meskwaki nations to a large territory stretching all the way from the Mississippi to the Missouri Rivers, including most of the present-day state of Iowa. Despite this acknowledgement, the U.S. proceeded to acquire the land in treaties with the Sac and Meskwaki nations without including the Ioway nation in the negotiations or payments. In 1837, a delegation of Ioway leaders visited Washington, D.C., to protest their treatment and reassert their land claims. The leader No Heart of Fear presented a [hand drawn map](https://iowaarchaeology.org/files/1837_Ioway_Map_New/1837_Ioway_Map.html) of the Upper Mississippi Valley showing the Ioway Nation’s deep connection to the region. Although the U.S. agreed to grant the Ioway Nation a small annuity for its land losses in the 1838 Treaty of Great Nemaha, the Ioway people received less compensation than many other Indigenous nations with claims to the region.
+In the 1825 Treaty of Prairie du Chien, the United States officially recognized that the Ioway nation had equal rights with the Sac and Meskwaki nations to a large territory stretching all the way from the Mississippi to the Missouri Rivers, including most of the present-day state of Iowa. Despite this acknowledgement, the U.S. proceeded to acquire the land in treaties with the Sac and Meskwaki nations without including the Ioway nation in the negotiations or payments. In 1837, a delegation of Ioway leaders visited Washington, D.C., to protest their treatment and reassert their land claims. The leader No Heart of Fear presented a [hand drawn map][2] of the Upper Mississippi Valley showing the Ioway Nation’s deep connection to the region. Although the U.S. agreed to grant the Ioway Nation a small annuity for its land losses in the 1838 Treaty of Great Nemaha, the Ioway people received less compensation than many other Indigenous nations with claims to the region.
 
 Faced with the American seizure of their homelands, the Ioway people were forced to resettle during the 1830s on reservations in present-day Kansas, Nebraska, and Oklahoma. The Ioway people maintain sovereign governments today as the Iowa Tribe of Kansas and Nebraska and the Iowa Tribe of Oklahoma.
+
+[2]: https://iowaarchaeology.org/files/1837_Ioway_Map_New/1837_Ioway_Map.html
 
 ## Oceti Sakowin
 

@@ -6,9 +6,9 @@ hero_image: /images/NahantMarsh.JPG
 
 # About the Honor Native Land Fund: 
 
-Honor Native Land Fund (HNLF) is an all-volunteer network of non-Native people who seek to partner with and financially support Indigenous-led movements for sovereignty and land return. HNLF was started by a small group of descendants of European settlers living in the Dubuque, IA region who were inspired by the growing [Voluntary Land Tax](https://nativegov.org/news/voluntary-land-taxes/) movement, which recognizes non-Native access to stolen Indigenous land through the payment of a voluntary “rent” or “tax” to an Indigenous nation or organization. 
+Honor Native Land Fund (HNLF) is an all-volunteer network of non-Native people who seek to partner with and financially support Indigenous-led movements for sovereignty and land return. HNLF was started by a small group of descendants of European settlers living in the Dubuque, IA region who were inspired by the growing [Voluntary Land Tax][1] movement, which recognizes non-Native access to stolen Indigenous land through the payment of a voluntary “rent” or “tax” to an Indigenous nation or organization. 
 
-In 2023, HNLF began partnering with the [Great Plains Action Society](https://www.greatplainsaction.org/), an Indigenous-led organization made up of Meskwaki, Ho Chunk, Ioway, and other Indigenous people resisting colonization and working to restore and rematriate land in Iowa. 
+In 2023, HNLF began partnering with the [Great Plains Action Society][2], an Indigenous-led organization made up of Meskwaki, Ho Chunk, Ioway, and other Indigenous people resisting colonization and working to restore and rematriate land in Iowa. 
 
 ## HNLF is inspired by the work of the following organizations:
 
@@ -17,4 +17,9 @@ In 2023, HNLF began partnering with the [Great Plains Action Society](https://ww
 - [Honor Tax](http://www.honortax.org/) (Humbolt County, CA)
 - [Honor Native Land Tax](https://www.honornativelandtax.org/) (Albuquerque, NM)
 - [Manna Hatta Fund](https://mannahattafund.org/) (New York, NY)
+
 - [Mni Sota Makoce Honor Tax](https://www.mnhonortax.org/) (Minnesota)
+
+[1]: https://nativegov.org/news/voluntary-land-taxes/
+[2]: https://www.greatplainsaction.org/
+
