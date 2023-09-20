@@ -17,3 +17,4 @@ In 2023, HNLF began partnering with the [Great Plains Action Society](https://ww
 - [Honor Tax](http://www.honortax.org/) (Humbolt County, CA)
 - [Honor Native Land Tax](https://www.honornativelandtax.org/) (Albuquerque, NM)
 - [Manna Hatta Fund](https://mannahattafund.org/) (New York, NY)
+- [Mni Sota Makoce Honor Tax](https://www.mnhonortax.org/) (Minnesota)
