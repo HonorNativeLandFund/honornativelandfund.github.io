@@ -29,6 +29,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.honornativelandfund.org" # the base hostname & protocol for your site, e.g. http://example.com
 fixed_navbar: top
 google_analytics: G-DN79M7TYGT
+
 # Build settings
 # With GitHub Pages Gem
 remote_theme: chrisrhymes/bulma-clean-theme
