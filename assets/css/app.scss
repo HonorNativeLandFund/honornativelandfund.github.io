@@ -1,11 +1,13 @@
 ---
 ---
-$primary: #333333;
+
+// Title Bar Color
+// $primary: #333333;
 // Import Main CSS file from theme
 @import "main";
 
-/*
+// Make all links bold for better visibility
 a:any-link {
   font-weight: bold;
 }
-*/
+
