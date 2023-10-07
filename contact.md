@@ -20,7 +20,7 @@ hero_image: /images/NahantMarsh.JPG
         </div>
       </div>
     </div>
-    <button type="submit" class="btn is-normal is-dark">Stay in Touch</button>
+    <button type="submit" class="button is-normal is-dark">Stay in Touch</button>
   </form>
 </div>
 
