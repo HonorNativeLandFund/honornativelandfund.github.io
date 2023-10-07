@@ -28,9 +28,8 @@ hero_image: /images/NahantMarsh.JPG
           <input type="email" name="email" class="form-control" placeholder="Email Address" required>
         </div>
       </div>
+      <button type="submit" class="button is-normal is-dark">Stay in Touch</button>
     </div>
-    <button type="submit" class="button is-normal is-dark">Stay in Touch</button>
-    <p></p>
   </form>
 </div>
 
