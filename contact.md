@@ -4,10 +4,10 @@ title: Contact Us
 hero_image: /images/NahantMarsh.JPG
 ---
 
-# Leave your Name and Email Below
+# Contact Us
 
 <div class="container">
-  <h1>Want to stay updated?</h1>
+  <h2>Want to stay updated?</h2>
   <p>Leave us your name and email address so we can let you know about updates to our project. </p>
   <form action="https://formsubmit.co/honornativelandfund@gmail.com" method="POST">
     <div class="form-group">
@@ -20,8 +20,9 @@ hero_image: /images/NahantMarsh.JPG
         </div>
       </div>
     </div>
-    <button type="submit" class="btn btn-lg btn-dark btn-block">Stay in Touch</button>
+    <button type="submit" class="btn is-normal is-dark">Stay in Touch</button>
   </form>
 </div>
+
 
 Or email us at <HonorNativeLandFund@gmail.com>
