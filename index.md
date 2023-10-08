@@ -4,8 +4,6 @@ layout: page
 hero_image: /images/NahantMarsh.JPG
 ---
 
-![Honor Native Land Fund](/images/HNLF_Draft.jpg)
-
 # Honor Native Land Fund
 
 ### We are on Native land. 
