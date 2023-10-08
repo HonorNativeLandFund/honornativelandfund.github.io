@@ -11,13 +11,15 @@ hero_image: /images/NahantMarsh.JPG
   <p>Leave us your name and email address so we can let you know about updates to our project. </p>
   <form action="https://formsubmit.co/215bf59e2c8cf519a7c116544d893c1d" method="POST">
     <div class="box">
-      <div class="columns is-multiline">
+      <div class="columns">
         <div class="column is-one-quarter">
           <label class="label">Name</label>
         </div>
         <div class="column is-one-quarter">
           <label class="label">Email Address</label>
         </div>
+      </div>
+      <div class="columns">
         <div class="column is-half">
           <label class="label"></label>
         </div>
@@ -31,7 +33,8 @@ hero_image: /images/NahantMarsh.JPG
       <button type="submit" class="button is-normal is-dark">Stay in Touch</button>
     </div>
   </form>
-  <p></p>
+  <div></div>
 </div>
+
 
 Or email us at <HonorNativeLandFund@gmail.com>
