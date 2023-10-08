@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /images/HNLF_Draft.jpg
+title: Contact Us
 hero_image: /images/NahantMarsh.JPG
 ---
 
@@ -15,7 +15,7 @@ hero_image: /images/NahantMarsh.JPG
         <div class="column is-one-quarter">
           <label class="label">Name</label>
           <div class="columns">
-            <div class="column>
+            <div class="column">
               <input type="text" name="name" class="form-control" placeholder="Full Name" required>
             </div>
           </div>
