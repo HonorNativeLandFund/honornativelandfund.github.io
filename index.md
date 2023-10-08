@@ -4,6 +4,8 @@ layout: page
 hero_image: /images/NahantMarsh.JPG
 ---
 
+![Honor Native Land Fund](/images/HNLF_Draft.jpg)
+
 # Honor Native Land Fund
 
 ### We are on Native land. 
@@ -15,6 +17,35 @@ Through supporting land return, participants in HNLF seek to acknowledge and hon
 HNLF has received permission to fundraise money for the [Great Plains Action Society's Land Back Movement][LB]. The Great Plains Action Society is an Indigenous-led organization made up of Meskwaki, Ho Chunk, Ioway, and other Indigenous people looking to purchase land outside of Des Moines and Sioux City, Iowa, in order to “resist colonization and to re-indigenize the world around us.”
 
 100% of the money raised by HNLF goes to the [Great Plains Action Society] [GPAS].
+
+<div class="container">
+  <h2>Want to stay updated?</h2>
+  <p>Leave us your name and email address so we can let you know about updates to our project. </p>
+  <form action="https://formsubmit.co/215bf59e2c8cf519a7c116544d893c1d" method="POST">
+    <div class="box">
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <label class="label">Name</label>
+          <div class="columns">
+            <div class="column">
+              <input type="text" name="name" class="form-control" placeholder="Full Name" required>
+            </div>
+          </div>
+        </div>
+        <div class="column is-one-quarter">
+          <label class="label">Email Address</label>
+          <div class="columns">
+            <div class="column">
+              <input type="email" name="email" class="form-control" placeholder="Email Address" required>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button type="submit" class="button is-normal is-dark">Stay in Touch</button>
+    </div>
+  </form>
+  <div></div>
+</div>
 
 [GPAS]: https://www.greatplainsaction.org/
 [LB]: https://secure.actblue.com/donate/rematriate
