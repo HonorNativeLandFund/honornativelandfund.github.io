@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   from the banks of the Mississippi to the Missouri - make to local Indigenous efforts to restore and rematriate 
   land and water to Indigenous stewardship.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://www.honornativelandfund.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.honornativelandfund.org" # the base hostname & protocol for your site, e.g. http://example.com
 fixed_navbar: top
 google_analytics: G-DN79M7TYGT
 
