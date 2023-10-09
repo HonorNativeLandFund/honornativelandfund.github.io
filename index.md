@@ -1,7 +1,7 @@
 ---
 title: Welcome
 layout: page
-hero_image: /images/NahantMarsh.JPG
+hero_image: images/HNLF Logo Small.png
 ---
 
 # Honor Native Land Fund
