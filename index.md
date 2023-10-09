@@ -4,16 +4,14 @@ layout: page
 hide_hero: true
 ---
 
-<div class="columns">
+<div class="columns is-centered">
   <div class="column">
     <img src="/images/HNLF Logo Small.png">
   </div>
   <div class="column">
-    Welcome
+    <h1>Honor Native Land Fund</h1>
   </div>  
 </div>
-
-# Honor Native Land Fund
 
 ### We are on Native land. 
 
