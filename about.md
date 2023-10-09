@@ -21,11 +21,19 @@ In 2023, HNLF began partnering with the [Great Plains Action Society][2], an Ind
 
 ## About our Logo
 
-This logo emerged from weaving together three threads: (1) the tallgrass prairie, (2) the Oneness between humans and land, and (3) the simple gesture of touching the earth.
+<div class="columns is-vcentered">
+  <div class="column">
+    <img src="/images/HNLF Logo Small.png">
+  </div>
+  <div class="column">
+    <p>This logo emerged from weaving together three threads: (1) the tallgrass prairie, (2) the Oneness between humans and land, and (3) the simple gesture of touching the earth.
 
 Touching the earth is a gesture that runs deep in my imaginative meshwork; it is a nod to the Bhumisparsha mudra, calling the earth to witness. This is a deeply reverential expression of honoring the earth and stepping into our awareness of Oneness, and, therein, stepping into the responsibility of upholding and embodying that honor. The grasses growing up from the touch of the fingers express that humans and nature are not separate, and that our touch can be one that expresses care and protection. Today's hegemony of colonizing beliefs function through systems of separation and superiority, justifying dishonorable acts of exploitation and extraction. Recovering from this will involve the steady healing of our beliefs, actions, and embodiment. I felt that this particular expression fit well with the vision and mission of HNLF, as it is subtle, expansive, and inclusive, and able to encompass the broad range of people who will be involved in this work. 
 
-Moselle Singh (Drawn from Water) is a Punjabi-American artist from Iowa with a background in agroecology and biodiversity regeneration. They celebrate, honor, and defend their relationship with life through art [www.mosellesingh.com](www.mosellesingh.com).
+Moselle Singh (Drawn from Water) is a Punjabi-American artist from Iowa with a background in agroecology and biodiversity regeneration. They celebrate, honor, and defend their relationship with life through art [www.mosellesingh.com](www.mosellesingh.com).</p>
+  </div>  
+</div>
+
 
 [1]: https://nativegov.org/news/voluntary-land-taxes/
 [2]: https://www.greatplainsaction.org/
