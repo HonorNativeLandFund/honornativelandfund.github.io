@@ -1,8 +1,17 @@
 ---
 title: Welcome
 layout: page
-hero_image: images/HNLF Logo Small.png
+hide_hero: true
 ---
+
+<div class="columns">
+  <div class="column">
+    <img src="/images/HNLF Logo Small.png">
+  </div>
+  <div class="column">
+    Welcome
+  </div>  
+</div>
 
 # Honor Native Land Fund
 
