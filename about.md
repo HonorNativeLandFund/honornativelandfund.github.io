@@ -6,7 +6,11 @@ hero_image: /images/NahantMarsh.JPG
 
 # About the Honor Native Land Fund: 
 
-![Honor Native Land Fund](images/HNLF Logo Small.png)
+<div class="columns">
+  <div class="column">
+    ![Honor Native Land Fund](images/HNLF Logo Small.png)
+  </div>
+</div>
 
 Honor Native Land Fund (HNLF) is an all-volunteer network of non-Native people who seek to partner with and financially support Indigenous-led movements for sovereignty and land return. HNLF was started by a small group of descendants of European settlers living in the Dubuque, IA region who were inspired by the growing [Voluntary Land Tax][1] movement, which recognizes non-Native access to stolen Indigenous land through the payment of a voluntary “rent” or “tax” to an Indigenous nation or organization. 
 
