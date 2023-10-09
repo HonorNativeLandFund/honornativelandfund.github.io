@@ -4,7 +4,7 @@ layout: page
 hide_hero: true
 ---
 
-<div class="columns is-centered">
+<div class="columns is-vcentered">
   <div class="column">
     <img src="/images/HNLF Logo Small.png">
   </div>
