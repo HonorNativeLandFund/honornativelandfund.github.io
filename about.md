@@ -33,7 +33,7 @@ Touching the earth is a gesture that runs deep in my imaginative meshwork; it is
   </div>  
 </div>
 
-Moselle Singh (Drawn from Water) is a Punjabi-American artist from Iowa with a background in agroecology and biodiversity regeneration. They celebrate, honor, and defend their relationship with life through art [www.mosellesingh.com](www.mosellesingh.com).
+Moselle Singh (Drawn from Water) is a Punjabi-American artist from Iowa with a background in agroecology and biodiversity regeneration. They celebrate, honor, and defend their relationship with life through art [www.mosellesingh.com](https://www.mosellesingh.com).
 
 [1]: https://nativegov.org/news/voluntary-land-taxes/
 [2]: https://www.greatplainsaction.org/
