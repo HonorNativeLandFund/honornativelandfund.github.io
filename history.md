@@ -40,7 +40,7 @@ In the 1825 Treaty of Prairie du Chien, the United States officially recognized 
 
 Faced with the American seizure of their homelands, the Ioway people were forced to resettle during the 1830s on reservations in present-day Kansas, Nebraska, and Oklahoma. The Ioway people maintain sovereign governments today as the Iowa Tribe of Kansas and Nebraska and the Iowa Tribe of Oklahoma.
 
-[2]: https://iowaarchaeology.org/files/1837_Ioway_Map_New/1837_Ioway_Map.html
+[2]: https://iowaarchaeology.org/media/ioway/1837_Ioway_Map.html
 
 ## Oceti Sakowin
 
