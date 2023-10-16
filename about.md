@@ -21,6 +21,8 @@ In 2023, HNLF began partnering with the [Great Plains Action Society][2], an Ind
 
 ## About our Logo
 
+From the Artist, Moselle Singh:
+
 <div class="columns is-vcentered">
   <div class="column">
     <p>This logo emerged from weaving together three threads: (1) the tallgrass prairie, (2) the Oneness between humans and land, and (3) the simple gesture of touching the earth.</p>
