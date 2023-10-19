@@ -50,7 +50,7 @@ For white folks who have had their histories erased, check out programs like the
 Check out [this guide][11].
 
 
-[1]: https://secure.actblue.com/donate/rematriate
+[1]: https://secure.actblue.com/donate/rematriate?refcode=hnlf
 [2]: https://www.honornativelandtax.org/contribute
 [3]: https://www.honornativelandtax.org/
 [4]: https://nativegov.org/news/beyond-land-acknowledgment-series/
