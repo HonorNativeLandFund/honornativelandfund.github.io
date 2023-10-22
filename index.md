@@ -53,4 +53,4 @@ HNLF has received permission to fundraise money for the [Great Plains Action Soc
 </div>
 
 [GPAS]: https://www.greatplainsaction.org/
-[LB]: https://secure.actblue.com/donate/rematriate
+[LB]: https://secure.actblue.com/donate/rematriate?refcode=hnlf
