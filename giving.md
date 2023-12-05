@@ -7,14 +7,8 @@ hero_image: /images/NahantMarsh.JPG
 # Giving / How to Give
 
 <div class="container">
-  <div class="columns">
-    <div class="column">
-      <p>Contributions to land return for members of the Great Plains Action Society can be made here:</p>
-    </div>
-    <div class="column">
-      <a class="button is-link" href="https://secure.actblue.com/donate/rematriate?refcode=hnlf">Donate</a>
-    </div>
-  </div>
+  <p>Contributions to land return for members of the Great Plains Action Society can be made here:</p>
+  <a class="button" href="https://secure.actblue.com/donate/rematriate?refcode=hnlf">Donate</a>
 </div>
 
 
