@@ -15,7 +15,7 @@ hide_hero: true
 
 ### We are on Native land. 
 
-The Honor Native Land Fund (HNLF) is an opportunity for non-Native people living in the in the Midwest - particularly the homelands of the Ho-Chunk/Winnebago, Ioway, Meskwaki/Fox, Sauk, Dakota, and other nations - to contribute to Native efforts to restore land and water to Indigenous stewardship. We invite anyone - from Chicago to Kansas City, from Minneapolis to Saint Louis, and everywhere in between - to participate. 
+The Honor Native Land Fund (HNLF) is an opportunity for non-Native people living in the in the Midwest - particularly the homelands of the Ho-Chunk, Winnebago, Ioway, Meskwaki, Fox, Sauk, Dakota, and other nations - to contribute to Native efforts to restore land and water to Indigenous stewardship. We invite anyone - from Chicago to Kansas City, from Minneapolis to Saint Louis, and everywhere in between - to participate. 
 
 Through supporting land return, participants in HNLF seek to acknowledge and honor Indigenous people and homelands, and take steps toward repairing some of the harm done through colonization. We believe that returning land to Indigenous peoples is a necessary part of the racial and ecological healing our society needs.  
 
