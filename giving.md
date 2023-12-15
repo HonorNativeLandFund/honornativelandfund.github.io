@@ -11,7 +11,7 @@ hero_image: /images/NahantMarsh.JPG
   <a class="button is-info" href="https://secure.actblue.com/donate/rematriate?refcode=hnlf">Donate</a>
 </div>
 
-Consider your contribution to be a voluntary “rent” or “land tax” that represents a continuing effort and desire to acknowledge that you are a visitor living on stolen land. Monthly giving keeps the land’s original inhabitants on the forefront of our thoughts, and provides continual, reliable support for their projects.**We encourage you to make a recurring contribution.** 
+Consider your contribution to be a voluntary “rent” or “land tax” that represents a continuing effort and desire to acknowledge that you are a visitor living on stolen land. Monthly giving keeps the land’s original inhabitants on the forefront of our thoughts, and provides continual, reliable support for their projects. **We encourage you to make a recurring contribution.** 
 
 For guidance on an appropriate contribution, you can use this **[calculator][2]** created by the organization **[Honor Native Land Tax][3]**.  The calculator is meant to be a guide. You know your circumstances best. If they are not reflected in the options that are laid out, pick those that are closest to your experience. 
 
