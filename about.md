@@ -6,9 +6,11 @@ hero_image: /images/NahantMarsh.JPG
 
 # About the Honor Native Land Fund: 
 
-Honor Native Land Fund (HNLF) is an all-volunteer network of non-Native people who seek to partner with and financially support Indigenous-led movements for sovereignty and land return. HNLF was started by a small group of descendants of European settlers living in the Dubuque, IA region who were inspired by the growing [Voluntary Land Tax][1] movement, which recognizes non-Native access to stolen Indigenous land through the payment of a voluntary “rent” or “tax” to an Indigenous nation or organization. 
+Honor Native Land Fund (HNLF) is an all-volunteer network of non-Native people in the Midwest who partner with and financially support Indigenous-led movements for **rematriation**. We understand **rematriation** to mean both the physical return of land to the Indigenous people from whom it was stolen, as well as the Indigenous-led work of retoring sacred relationships between Indigenous people and their ancestral land. 
 
-In 2023, HNLF began partnering with the [Great Plains Action Society][2], an Indigenous-led organization made up of Meskwaki, Ho Chunk, Ioway, and other Indigenous people resisting colonization and working to restore and rematriate land in Iowa. 
+HNLF was started by a small group of descendants of European settlers living in the Dubuque, IA region who were inspired by the growing [Voluntary Land Tax][1] movement, which encourages non-Native people to contribute a voluntary “rent” or “tax” to a local Indigenous nation or organization to demonstrate respect for hte fact that the land we now occupy is still Indigenous land. 
+
+In 2023, HNLF began partnering with the [Great Plains Action Society][2], an Indigenous-led organization resisting colonization and working to rematriate land in Iowa. 
 
 ## HNLF is inspired by the work of the following organizations:
 
