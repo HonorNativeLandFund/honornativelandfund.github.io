@@ -23,6 +23,10 @@ HNLF raises money for the land rematriation efforts of the [Great Plains Action 
 
 100% of the money raised by HNLF goes to the [Great Plains Action Society] [GPAS].
 
+<div class="block">
+  <a class="button is-info" href="/giving">How To Give</a>
+</div>
+
 <div class="container">
   <h2>Want to stay updated?</h2>
   <p>Leave us your name and email address so we can let you know about updates to our project. </p>
