@@ -60,5 +60,5 @@ HNLF raises money for the **land rematriation*** efforts of the [Great Plains Ac
 </div>
 
 [GPAS]: https://www.greatplainsaction.org/
-[LB]: https://secure.actblue.com/donate/rematriate?refcode=hnlf
+[LB]: https://secure.actblue.com/donate/rematriatenow?refcode=hnlf
 [ST]: https://sogoreate-landtrust.org/slt_resources/rematriation-resource-guide/
