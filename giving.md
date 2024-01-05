@@ -62,4 +62,4 @@ Check out [this guide][11].
 [9]: https://indigenousrising.org/
 [10]: https://www.nativehope.org/missing-and-murdered-indigenous-women-mmiw\
 [11]:https://collectiveliberation.org/resource-guide-for-indigenous-solidarity-funding-projects/
-[GPAS]: https://secure.actblue.com/donate/gpas
+[GPAS]: https://secure.actblue.com/donate/greatplains
