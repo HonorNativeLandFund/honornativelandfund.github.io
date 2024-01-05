@@ -19,9 +19,9 @@ The Honor Native Land Fund (HNLF) is an opportunity for non-Native people living
 
 Through supporting land return, participants in HNLF acknowledge that we live on Indigenous homelands while taking practical steps toward repairing some of the harm done through colonization. We believe that returning land to Indigenous peoples is a necessary part of the racial and ecological healing our society needs.  
 
-HNLF raises money for the **land rematriation*** efforts of the [Great Plains Action Society's Land Back Movement][LB]. The Great Plains Action Society is an Indigenous-led organization seeking to purchase and heal land in Iowa in order to “resist colonization and re-indigenize the world around us.”
+HNLF raises money for the **land rematriation** efforts of the [Great Plains Action Society's Land Back Movement][LB]. The Great Plains Action Society is an Indigenous-led organization seeking to purchase and heal land in Iowa in order to “resist colonization and re-indigenize the world around us.”
 
-***What is Rematriation?**
+**What is Rematriation?**
 [Rematriation][SG] means both the physical return of land to the Indigenous people from whom land was stolen as well as the Indigenous'led work of restoring sacred relationships between Indigenous people and their ancestral land. 
 
 100% of the money raised by HNLF goes to the [Great Plains Action Society] [GPAS].
