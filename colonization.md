@@ -17,7 +17,11 @@ Before 1800, more than 60 million bison roamed this continent. Bison played a vi
 
 Today in the Midwest, as in all of the United States, **over 98% of agricultural land is now owned by white people** ([USDA][2]).
 
-The [Great Plains Action Society][3] - an Indigenous-led organization made up of Meskwaki, Ho Chunk, Ioway, and other Indigenous people - seek to resist such colonization by restoring land and water in Iowa to Indigenous stewardship. 
+The Indigenous-led [Great Plains Action Society][GPAS] seeks to resist such colonization by *rematriating* land in the Midwest, and particularly in Iowa, to Indigenous stewardship. 
+
+What is [Rematriation][REMAT] ?
+Rematriation means both the physical return of land to the the Indigenous people from whom land was stolen, as well as the Indigenous-led work of restoring sacred relationships between Indigenous people and their ancestral land. 
+
 
 *Why Iowa?*
 
@@ -36,4 +40,5 @@ Non-Native people living in the Midwest can take a concrete step toward repairin
 
 [1]: https://www.littletoller.co.uk/the-clearing/tallgrass-by-robin-wall-kimmerer/
 [2]: https://www.ers.usda.gov/webdocs/publications/46984/19353_ra174h_1_.pdf
-[3]: https://www.greatplainsaction.org/
+[GPAS]: https://www.greatplainsaction.org/
+[REMAT] https://sogoreate-landtrust.org/slt_resources/rematriation-resource-guide/
