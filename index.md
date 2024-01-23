@@ -15,6 +15,8 @@ hide_hero: true
 
 [Register for the launch Webinar](https://forms.gle/zT4szwbes5rL51vD6)
 
+[Add to your Google Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/NnNtYjhzY2Q4MTc0aGtqcmhuYWFnZnRkNjIgaG9ub3JuYXRpdmVsYW5kZnVuZEBt/Y2Rib2VrZUBnbWFpbC5jb20)
+
 ![Webinar Poster](/images/HNLFPosterPFI24.png)
 
 ### We are on Native land. 
