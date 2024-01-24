@@ -6,14 +6,19 @@ hide_hero: true
 
 <div class="block">
   <p></p>
-  <a class="button is-info" href="[https://secure.actblue.com/donate/rematriatenow?refcode=hnlf](https://forms.gle/zT4szwbes5rL51vD6)">Register for the launch Webinar</a>
+  <a class="button is-info" href="https://forms.gle/zT4szwbes5rL51vD6">Register for the launch Webinar</a>
 </div>
 
 ![Webinar Poster](/images/HNLFPosterPFI24.png)
 
 <div class="block">
   <p></p>
-  <a class="button is-info" href="[https://secure.actblue.com/donate/rematriatenow?refcode=hnlf](https://forms.gle/zT4szwbes5rL51vD6)">Register for the launch Webinar</a>
+  <a class="button is-info" href="https://forms.gle/zT4szwbes5rL51vD6">Register for the launch Webinar</a>
+</div>
+
+<div class="block">
+  <p></p>
+  <a class="button is-info" href="https://calendar.google.com/calendar/u/0/r/eventedit/copy/NnNtYjhzY2Q4MTc0aGtqcmhuYWFnZnRkNjIgaG9ub3JuYXRpdmVsYW5kZnVuZEBt/Y2Rib2VrZUBnbWFpbC5jb20">Add to your Google Calendar</a>
 </div>
 
 [Add to your Google Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/NnNtYjhzY2Q4MTc0aGtqcmhuYWFnZnRkNjIgaG9ub3JuYXRpdmVsYW5kZnVuZEBt/Y2Rib2VrZUBnbWFpbC5jb20)
