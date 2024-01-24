@@ -21,7 +21,6 @@ hide_hero: true
   <a class="button is-info" href="https://calendar.google.com/calendar/u/0/r/eventedit/copy/NnNtYjhzY2Q4MTc0aGtqcmhuYWFnZnRkNjIgaG9ub3JuYXRpdmVsYW5kZnVuZEBt/Y2Rib2VrZUBnbWFpbC5jb20">Add to your Google Calendar</a>
 </div>
 
-[Add to your Google Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/NnNtYjhzY2Q4MTc0aGtqcmhuYWFnZnRkNjIgaG9ub3JuYXRpdmVsYW5kZnVuZEBt/Y2Rib2VrZUBnbWFpbC5jb20)
 
 ### We are on Native land. 
 
