@@ -4,20 +4,19 @@ layout: page
 hide_hero: true
 ---
 
-<div class="columns is-vcentered">
-  <div class="column">
-    <img src="/images/HNLF Logo Small.png">
-  </div>
-  <div class="column">
-    <h1>Honor Native Land Fund</h1>
-  </div>  
+<div class="block">
+  <p></p>
+  <a class="button is-info" href="[https://secure.actblue.com/donate/rematriatenow?refcode=hnlf](https://forms.gle/zT4szwbes5rL51vD6)">Register for the launch Webinar</a>
 </div>
 
-[Register for the launch Webinar](https://forms.gle/zT4szwbes5rL51vD6)
+![Webinar Poster](/images/HNLFPosterPFI24.png)
+
+<div class="block">
+  <p></p>
+  <a class="button is-info" href="[https://secure.actblue.com/donate/rematriatenow?refcode=hnlf](https://forms.gle/zT4szwbes5rL51vD6)">Register for the launch Webinar</a>
+</div>
 
 [Add to your Google Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/NnNtYjhzY2Q4MTc0aGtqcmhuYWFnZnRkNjIgaG9ub3JuYXRpdmVsYW5kZnVuZEBt/Y2Rib2VrZUBnbWFpbC5jb20)
-
-![Webinar Poster](/images/HNLFPosterPFI24.png)
 
 ### We are on Native land. 
 
