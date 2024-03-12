@@ -15,12 +15,12 @@ hide_hero: true
   <p></p>
   <a class="button is-info" href="https://www.youtube.com/watch?v=odSP_M1JW-k">Watch the recording of the launch Webinar</a>
 </div>
- 
-*Decolonial Repair Network*
 
-*Working Towards Healing the Harms of Colonialism*
-
-*Monthly Calls: First Wednesday of the month, 7-8 CT*
+<div class="block">
+  <h>Decolonial Repair Network </h>
+  <h>Working Towards Healing the Harms of Colonialism</h>
+  <h>Monthly Calls: First Wednesday of the month, 7-8 CT</h>
+</div>
 
 Last night we also announced the opportunity to continue this work through the Decolonial Repair Network. Our first online informational call is Wednesday, April 3rd, 7-8pm. [Sign up here](https://forms.gle/fbi3PuH7R8PMHJts5).
 
