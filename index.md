@@ -17,9 +17,9 @@ hide_hero: true
 </div>
 
 <div class="block">
-  <h>Decolonial Repair Network </h>
-  <h>Working Towards Healing the Harms of Colonialism</h>
-  <h>Monthly Calls: First Wednesday of the month, 7-8 CT</h>
+  <p>Decolonial Repair Network
+    Working Towards Healing the Harms of Colonialism
+    Monthly Calls: First Wednesday of the month, 7-8 CT</p>
 </div>
 
 Last night we also announced the opportunity to continue this work through the Decolonial Repair Network. Our first online informational call is Wednesday, April 3rd, 7-8pm. [Sign up here](https://forms.gle/fbi3PuH7R8PMHJts5).
