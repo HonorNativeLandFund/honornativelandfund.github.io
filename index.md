@@ -8,14 +8,9 @@ hide_hero: true
   <p></p>
   <a class="button is-info" href="https://www.youtube.com/watch?v=odSP_M1JW-k">Watch the recording of the launch Webinar</a>
 </div>
-
-![Webinar Poster](/images/HNLFPosterPFI24.png)
-
-<div class="block">
+<div>
   <p></p>
-  <a class="button is-info" href="https://www.youtube.com/watch?v=odSP_M1JW-k">Watch the recording of the launch Webinar</a>
 </div>
-
 <div>
   <strong>Decolonial Repair Network</strong>
 </div>
