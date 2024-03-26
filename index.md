@@ -4,6 +4,15 @@ layout: page
 hide_hero: true
 ---
 
+<div class="columns is-vcentered">
+  <div class="column">
+    <img src="/images/HNLF Logo Small.png">
+  </div>
+  <div class="column">
+    <h1>Honor Native Land Fund</h1>
+  </div>  
+</div>
+
 <div class="block">
   <p></p>
   <a class="button is-info" href="https://www.youtube.com/watch?v=odSP_M1JW-k">Watch the recording of the launch Webinar</a>
