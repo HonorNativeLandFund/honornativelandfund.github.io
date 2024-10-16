@@ -32,7 +32,7 @@ google_analytics: G-DN79M7TYGT
 
 # Build settings
 # With GitHub Pages Gem
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
 plugins:
   - jekyll-sitemap
