@@ -6,9 +6,9 @@ hero_image: /images/NahantMarsh.JPG
 
 # Decolonial Repair Network 
 
-## Working Towards Healing the Harms of Colonialism
+### Working Towards Healing the Harms of Colonialism
 
-## Monthly Calls: First Wednesday of the month, 7-8 CT
+### Monthly Calls: First Wednesday of the month, 7-8 CT
 
 [SIGN UP HERE](https://docs.google.com/forms/d/e/1FAIpQLSe7lkibvUPlVeaol7WdLIAnuWm9WW1pfR432UmZEJgTwXfkSQ/viewform)
 
