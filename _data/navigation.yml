@@ -9,7 +9,10 @@
   link: /giving
 - name: About Our Group
   link: /about
+  dropdown:
+    - name: Contact Us
+      link: /contact
+    - name: Posters and Yard Signs
+      link: /signs
 - name: Decolonial Repair Network
   link: /drn
-- name: Contact Us
-  link: /contact
