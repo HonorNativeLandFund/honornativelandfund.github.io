@@ -20,17 +20,18 @@ hide_hero: true
 <div>
   <p></p>
 </div>
-<div>
-  <strong>Decolonial Repair Network</strong>
-</div>
-<div>
-  <strong>Working Towards Healing the Harms of Colonialism</strong>
-</div>
-<div>
-  <strong>Monthly Calls: First Wednesday of the month, 7-8 CT</strong>
-</div>
 
-Last night we also announced the opportunity to continue this work through the Decolonial Repair Network. Our first online informational call is Wednesday, April 3rd, 7-8pm. [Sign up here](https://forms.gle/fbi3PuH7R8PMHJts5).
+### We have Signs!
+
+We have yard signs to order and posters you can print!
+
+<div class="block">
+  <p></p>
+  <a class="button is-info" href="https://honornativelandfund.org/signs">Signs and Posters</a>
+</div>
+<div>
+  <p></p>
+</div>
 
 ### We are on Native land. 
 
