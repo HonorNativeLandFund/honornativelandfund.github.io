@@ -20,6 +20,7 @@ In 2023, HNLF began partnering with the [Great Plains Action Society][2], an Ind
 - [Honor Native Land Tax](https://www.honornativelandtax.org/) (Albuquerque, NM)
 - [Manna Hatta Fund](https://mannahattafund.org/) (New York, NY)
 - [Mni Sota Makoce Honor Tax](https://www.mnhonortax.org/) (Minnesota)
+- [Miami Nation of Indiana Honor Fund](https://www.miaminationhonorfund.com/home) (Indiana)
 
 ## About our Logo
 
