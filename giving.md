@@ -61,5 +61,5 @@ Check out [this guide][11].
 [8]: https://www.ienearth.org/
 [9]: https://indigenousrising.org/
 [10]: https://www.nativehope.org/missing-and-murdered-indigenous-women-mmiw\
-[11]:https://collectiveliberation.org/resource-guide-for-indigenous-solidarity-funding-projects/
+[11]:https://sogoreate-landtrust.org/wp-content/uploads/2020/10/Resource-Guide-for-Indigenous-Solidarity-Funding-Projects-with-links.pdf
 [GPAS]: https://secure.actblue.com/donate/greatplains
