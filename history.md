@@ -12,7 +12,7 @@ hero_image: /images/NahantMarsh.JPG
 
 > “This history is not your fault, but it is absolutely your responsibility.”  -Nikki Sanchez 
 
-[ISF]: https://collectiveliberation.org/resource-guide-for-indigenous-solidarity-funding-projects/
+[ISF]: https://sogoreate-landtrust.org/wp-content/uploads/2020/10/Resource-Guide-for-Indigenous-Solidarity-Funding-Projects-with-links.pdf
 
 ## Ho Chunk/Winnebego
 
