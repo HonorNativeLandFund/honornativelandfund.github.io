@@ -8,7 +8,7 @@ hero_image: /images/NahantMarsh.JPG
 
 <div class="block">
   <p>Contributions to land return for members of the Great Plains Action Society can be made here:</p>
-  <a class="button is-info" href="https://secure.actblue.com/donate/rematriatenow?refcode=hnlf">Donate</a>
+  <a class="button is-info" href="https://secure.actblue.com/donate/rematriatenow?refcode=hnlf">Contribute</a>
 </div>
 
 Consider your contribution to be a voluntary “rent” or “land tax” that represents a continuing effort and desire to acknowledge that you are a visitor living on stolen land. Monthly giving keeps the land’s original inhabitants on the forefront of our thoughts, and provides continual, reliable support for their projects. **We encourage you to make a recurring contribution.** 
